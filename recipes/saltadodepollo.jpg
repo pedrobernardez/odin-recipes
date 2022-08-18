@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Saltado de Pollo</title>
+<body>
+<h1>Saltado de pollo</h1>
+<img src="saltadodepollo.jpg" alt="Saltado de pollo" style="width:500px;height:375px;">
+<h2>Description</h2>
+<p>A delectable collection of sautéed chicken, bell pepper, onion, tomato and fries served over rice!</p>
+<h2>Ingredients</h2>
+<ul>
+<li>1 pound of chicken, boneless, sliced or diced</li>
+<li>1 onion, sliced</li>
+<li>1 red bell pepper, cut into strips</li>
+<li>1 medium tomato, sliced or diced</li>
+<li>8-10 fries, fried once (still soft) instead of twice</li>
+<li>1 cup of cooked rice</li>
+<li>1 teaspoon of paprika</li>
+<li>1 teaspoon of cumin</li>
+<li>1/2 teaspoon of salt</li>
+<li>1/4 teaspoon of pepper</li>
+<li>1 tablespoon of aji panca paste</li>
+<li>1 sprig of cilantro, washed</li>
+<li>1 tablespoon of cooking oil, preferably corn oil</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Light up a power burner on medium high heat, and place a wok on it.</li>
+<li>Add the oil into the wok and sautée the onion slices for 4-5 minutes.</li>
+<li>Add the red bell pepper strips and chicken pieces. Continue sautéeing until strips are tender and chicken is golden brown, another 4-5 minutes.</li>
+<li>Add the aji panca and all the spices; stir and mix well.</li>
+<li>Add the tomato pieces, stirring. Cook for another 10 minutes or until liquid is well reduced.</li>
+<li>Add the fries, cooking for 4-5 more minutes.</li>
+<li>Serve on a bed of rice on a shallow plate, pouring some of the juice from the wok on it.</li>
+<li>Let the dish cool for 3-4 minutes, pull the cilantro apart by hand and garnish it over the food, and serve the saltado forth.</li>
+</ol>
+</body>
+</html>
